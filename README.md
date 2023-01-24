@@ -1,2 +1,6 @@
-# iozad4
- INŻYNIERIA OPROGRAMOWNIA ZADANIE CZWARTE wersja prototyp.fqaewurh9q238r8q923hr2983hr9q2h3r82q3r98q2h3r8hq239rh2398rhq93rh - osiem odjbur
+# INŻYNIERIA OPROGRAMOWaNIA ZADANIE CZWARTE
+bardzo ważny projekt
+dodatkowa linijka tekstu
+strona dla bibliomatu dla biblioteki
++ (plus) testy w selenium na pythonie (język dla ubogich umysłowo)
+walter
